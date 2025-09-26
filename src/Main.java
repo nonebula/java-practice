@@ -2,6 +2,8 @@
 import lesson1BasicOutput.BasicOutput;
 import lesson2Variables.Variables;
 import lesson3UserInput.UserInput;
+import lesson4MadLibs.MadLibs;
+
 import java.util.Scanner;
 
 public class Main {
@@ -30,6 +32,9 @@ public class Main {
                     break;
                 case 3:
                     UserInput.main(args);
+                    break;
+                case 4:
+                    MadLibs.main(args);
                     break;
                 case 0:
                     System.out.println("Exiting program. Goodbye!");
