@@ -1,0 +1,7 @@
+package lesson37RockPaperScissors;
+
+public class RockPaperScissors {
+    public static void main(String[] args){
+
+    }
+}
